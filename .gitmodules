@@ -1,3 +1,6 @@
 [submodule "mf-proxy"]
 	path = mf-proxy
 	url = git@github.com:jahid90/mf-proxy.git
+[submodule "mf-portal"]
+	path = mf-portal
+	url = git@github.com:jahid90/mf-portal.git
