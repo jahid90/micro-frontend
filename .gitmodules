@@ -4,3 +4,6 @@
 [submodule "mf-portal"]
 	path = mf-portal
 	url = git@github.com:jahid90/mf-portal.git
+[submodule "mf-navigation"]
+	path = mf-navigation
+	url = git@github.com:jahid90/mf-navigation.git
